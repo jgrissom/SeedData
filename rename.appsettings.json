@@ -1,0 +1,9 @@
+{
+  "EventDbContext": {
+    "ConnectionString": "Server=bitsql.wctc.edu;Database=Events_##_XXX;User ID=YYY;Password=ZZZ"
+  },
+  "_comment": {
+    "##": "last 2 digits of CRN",
+    "XXX": "your initials"
+  }
+}
