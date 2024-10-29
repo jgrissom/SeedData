@@ -1,5 +1,5 @@
 {
-  "EventDbContext": {
+  "Events": {
     "ConnectionString": "Server=bitsql.wctc.edu;Database=Events_##_XXX;User ID=YYY;Password=ZZZ"
   },
   "_comment": {
